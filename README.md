@@ -1,3 +1,8 @@
+
+# Inside folders are describe as:
+
+# Note: Project Under Development
+
 battery_eval/
 ├── backend/
 │   ├── model.py                # FastAPI backend
